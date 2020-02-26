@@ -8,7 +8,7 @@ Additionaly a module solving a sudoku using specific techniques of inference, ha
   <img width="500" src="https://github.com/jfraszczak/Sudoku-Board-Recognition/blob/master/Images/sudoku9.jpg">
 </p>
 <p align="center">
-  <img width="500" src="https://github.com/jfraszczak/Sudoku-Board-Recognition/blob/master/Images/Figure_1.png">
+  <img width="800" src="https://github.com/jfraszczak/Sudoku-Board-Recognition/blob/master/Images/Figure_1.png">
 </p>
 <p align="center">
   <img width="500" src="https://github.com/jfraszczak/Sudoku-Board-Recognition/blob/master/Images/Figure_2.png">
