@@ -11,16 +11,16 @@ Additionaly a module solving a sudoku using specific techniques of inference, ha
   <img width="800" src="https://github.com/jfraszczak/Sudoku-Board-Recognition/blob/master/Images/Figure_1.png">
 </p>
 <p align="center">
-  <img width="500" src="https://github.com/jfraszczak/Sudoku-Board-Recognition/blob/master/Images/Figure_2.png">
+  <img width="800" src="https://github.com/jfraszczak/Sudoku-Board-Recognition/blob/master/Images/Figure_2.png">
 </p>
 <p align="center">
-  <img width="500" src="https://github.com/jfraszczak/Sudoku-Board-Recognition/blob/master/Images/Figure_3.png">
+  <img width="800" src="https://github.com/jfraszczak/Sudoku-Board-Recognition/blob/master/Images/Figure_3.png">
 </p>
 <p align="center">
-  <img width="https://github.com/jfraszczak/Sudoku-Board-Recognition/blob/master/Images/Figure_4.png">
+  <img width="800" src="https://github.com/jfraszczak/Sudoku-Board-Recognition/blob/master/Images/Figure_4.png">
 </p>
 <p align="center">
-  <img width="500" src="https://github.com/jfraszczak/Sudoku-Board-Recognition/blob/master/Images/Figure_5.png">
+  <img width="800" src="https://github.com/jfraszczak/Sudoku-Board-Recognition/blob/master/Images/Figure_5.png">
 </p>
 <p align="center">
   <img width="500" src="https://github.com/jfraszczak/Sudoku-Board-Recognition/blob/master/Images/Przechwytywanie.PNG">
