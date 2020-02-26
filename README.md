@@ -5,7 +5,7 @@ Program is able to extract digits from a grid as well as recognise them using co
 Additionaly a module solving a sudoku using specific techniques of inference, has been implemented.
 
 <p align="center">
-  <img width="200" src="https://github.com/jfraszczak/Sudoku-Board-Recognition/blob/master/Images/sudoku9.jpg">
+  <img width="600" src="https://github.com/jfraszczak/Sudoku-Board-Recognition/blob/master/Images/sudoku9.jpg">
 </p>
 ![Image2](https://github.com/jfraszczak/Sudoku-Board-Recognition/blob/master/Images/Figure_1.png)
 ![Image3](https://github.com/jfraszczak/Sudoku-Board-Recognition/blob/master/Images/Figure_2.png)
